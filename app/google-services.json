@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253063251523",
+    "project_id": "tryfire-cadc5",
+    "storage_bucket": "tryfire-cadc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253063251523:android:ed7c20662789b765abf6f6",
+        "android_client_info": {
+          "package_name": "com.example.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253063251523-9s25sc6fj9lsa9svduqp8t58m3t07812.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNOiFe3SG5TTb_Wl6Xve0MHoDybFJcGYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253063251523-9s25sc6fj9lsa9svduqp8t58m3t07812.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
